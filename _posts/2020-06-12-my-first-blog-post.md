@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Your blog post title"
 date: 2020-6-12
 ---
