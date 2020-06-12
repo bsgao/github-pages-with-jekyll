@@ -1,4 +1,4 @@
 ---
-title: "Brandon Gao's website"
-date: 2020-6-12
+title: "Brandon Gao Website"
+date: 2020-06-12
 ---
