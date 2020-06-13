@@ -6,4 +6,4 @@ Brandon Gao
 
 
 
-![GitHub](https://drive.google.com/open?id=1oglp4k9hRs7LwebA94tflqBpcdKgQh88)
+![GitHub](https://drive.google.com/file/d/1oglp4k9hRs7LwebA94tflqBpcdKgQh88/view?usp=sharing)
