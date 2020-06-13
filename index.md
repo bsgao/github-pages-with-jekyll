@@ -1,5 +1,4 @@
-# Welcome to my blog
-Brandon Gao
+My name is Brandon Gao
 
 
 
@@ -7,3 +6,5 @@ Brandon Gao
 
 
 ![GitHub](https://drive.google.com/file/d/1oglp4k9hRs7LwebA94tflqBpcdKgQh88/view?usp=sharing)
+
+
