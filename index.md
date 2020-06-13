@@ -1,7 +1,7 @@
 My name is Brandon Gao
 
 
-![Brandon](https://user-images.githubusercontent.com/53946585/84560130-f0d72380-ad0e-11ea-9912-c278f37e19b0.jpg)
+![捕获screenshot](https://user-images.githubusercontent.com/53946585/84560206-8672b300-ad0f-11ea-8691-5df5e184b29c.PNG)
 
 
 Instagram:brandon_gao0120
