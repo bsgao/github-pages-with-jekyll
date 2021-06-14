@@ -15,7 +15,7 @@ Snapchat:bsgao2003
 Three accomplishments:
 
 
--My basketball experience
+-My volunteering at Youth Council
 
 
 -My language ability: Mandarin and English
